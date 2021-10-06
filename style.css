@@ -1,0 +1,76 @@
+body{
+    background: black;
+}
+
+
+.top-handle{
+    margin: 0 auto;
+    background-color: #252222;
+    height: 130px;
+    width: 100px;
+   }
+
+.stop-light{
+    margin: 0 auto;
+    background-color: #252222;
+    height: 500px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+
+
+
+.red{
+    
+    background: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.red:hover{
+    box-shadow: 0 0 100px #e44242;
+    border: 5px solid #e74b4b;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.yellow:hover{
+    box-shadow: 0 0 100px #f1f13a;
+    border: 5px solid #ffff5b;
+}
+
+
+.green{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.green:hover{
+    box-shadow: 0 0 100px #50fc50;
+border: 5px solid #3ccc3c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
